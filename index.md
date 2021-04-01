@@ -17,7 +17,8 @@ title: Hot new conventions
 
 #### [Example 1](https://hanab.live/replay/422830#18):
 
-![](https://github.com/piper0/Hanab-Conventions/blob/main/naughty1.png)
+
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/naughty1.png" width="750">
 
 - Zamiel clues brown to micerang n4. 
 - micerang gives 3 to kimbifille to focus b3.
@@ -28,7 +29,7 @@ title: Hot new conventions
 
 #### [Example 2](https://hanab.live/replay/369576#32):
 
-![](https://github.com/piper0/Hanab-Conventions/blob/main/naughty2.png)
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/naughty2.png" width="750">
 
 - pianoblook clues 4 to kimbifille’s i2 as a reverse fake pink finesse on piper’s a3.
 - piper knows that pianoblook expects him to blindplay a3. Nevertheless, he defers the blindplay to play r5. 
@@ -38,7 +39,7 @@ title: Hot new conventions
 
 #### [Example 3](https://hanab.live/replay/318218#23):
 
-![](https://github.com/piper0/Hanab-Conventions/blob/main/naughty3.png)
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/naughty3.png" width="750">
 
 - kimbifille clues 3 to piper’s r3 as a reverse layered finesse on piano’s r2.
 - pianoblook knows that kimbifille expects him to blindplay to demonstrate that piper’s 3 is not i3. Nevertheless, he defers to play his globally known b4.
@@ -71,7 +72,7 @@ title: Hot new conventions
 
 #### [Example](https://hanab.live/replay/419646#23)
 
-![](https://github.com/piper0/Hanab-Conventions/blob/main/urcpc.png)
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/urcpc.png" width="750">
 
 - pianoblook clues 1 to piper.
 - Zamiel sees that pianoblook had free choice of color or rank but chose color.
@@ -152,7 +153,7 @@ First, see the section on the *[Gentleman's Discard](https://hanabi.github.io/do
 
 #### Example
 
-![](https://github.com/piper0/Hanab-Conventions/blob/main/dumpsterfire.png)
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/dumpsterfire.png" width="750">
 
 <br />
 
@@ -173,7 +174,7 @@ First, see the section on the *[Gentleman's Discard](https://hanabi.github.io/do
 
 #### Example:
 
-![](https://github.com/piper0/Hanab-Conventions/blob/main/rocochet.png)
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/rocochet.png" width="400">
 
 - No cards are played on the stacks.
 - griff77 bombs chop.
@@ -204,7 +205,7 @@ In this case - players should trust that Alice knows what she is doing and not D
 
 #### [Example](https://hanab.live/replay/443291#11)
 
-![](https://github.com/piper0/Hanab-Conventions/blob/main/dout.png)
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/dout.png" width="750">
 
 - ADrone clues 4s to Kimbi, initiating a finesse or bluff for green 4 (from Kimbi’s perspective). 
 - Kimbi plays into the bluff and plays null 1 successfully.
@@ -236,7 +237,7 @@ In this case - players should trust that Alice knows what she is doing and not D
 
 #### [Example 1](https://hanab.live/replay/261407#3)
 
-![](https://github.com/piper0/Hanab-Conventions/blob/main/squeeze1.png)
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/squeeze1.png" width="750">
 
 - joelwool clues two 5s to Animex52.
 - Because no 3s have been played, Animex52 sees that these 5s must be 2+ away from playable.
@@ -244,7 +245,7 @@ In this case - players should trust that Alice knows what she is doing and not D
 
 #### [Example 2 – The squeeze patch finesse](https://hanab.live/replay/319234#6)
 
-![](https://github.com/piper0/Hanab-Conventions/blob/main/squeeze2.png)
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/squeeze2.png" width="750">
 
 - pianoblook clues 4 to kimbifille, newly touching two 4s with one unclued card between them.
 - piper can see that g2 will bomb as a squeeze finesse.
