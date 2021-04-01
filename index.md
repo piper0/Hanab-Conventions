@@ -271,3 +271,34 @@ In this case - players should trust that Alice knows what she is doing and not D
 - If Alice plays a card other than the leftmost playable card, this is to be interpreted as a positional clue, much like the *Positional Discard*.
 - This positional clue can be on anyone – if Alice plays slot 3 out of priority and Bob can see a playable on Cathy's slot 3, Bob should NOT respond.
 
+
+<br />
+<br />
+
+## Attributions
+
+Massive shout-out to the many people who agreed to write new conventions or who agreed to take the time to help propose the ones we wrote. You guys are the best!
+- ADrone
+- avanderwalde
+- Bonja97
+- dobi
+- fishcat
+- Floriman
+- hakha3
+- Indego
+- Jerry Yang
+- kimbifille
+- Kyle
+- melwen
+- micerang
+- NoMercy
+- padi
+- pianoblook
+- piper
+- rkass
+- sin_faith
+- Stephen
+- timotree
+- Valetta6789
+
+Note that the above list of conventions is *not* complete. Several of the above contributors were in the process of drafting proposals when the gates were sealed. Feel free to send in your proposals if I missed yours, and I'll happily add it to the list.
