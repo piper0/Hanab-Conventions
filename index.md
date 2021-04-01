@@ -277,7 +277,7 @@ In this case - players should trust that Alice knows what she is doing and not D
 
 ## Attributions
 
-Massive shout-out to the many people who agreed to write new conventions or who agreed to take the time to help propose the ones we wrote. You guys are the best!
+Massive shout-out to the many people who agreed to write new conventions or who agreed to take the time to help propose the ones we wrote.
 - ADrone
 - avanderwalde
 - Bonja97
