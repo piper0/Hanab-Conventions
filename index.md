@@ -151,10 +151,6 @@ First, see the section on the *[Gentleman's Discard](https://hanabi.github.io/do
 - But what if Bob sees that this cannot be the case, based on his teammates’ hands?
 - In this case, Bob should trust that this is actually a Dumpster Fire (i.e. a Blazing Dumptruck) - he should trust Alice and blind-play the matching Finesse Position, thus signaling for all his teammates’ to follow suit!
 
-#### Example
-
-<img src="https://github.com/piper0/Hanab-Conventions/blob/main/dumpsterfire.png?raw=true" width="750">
-
 <br />
 
 ### The Ricochet (4p+ only)
