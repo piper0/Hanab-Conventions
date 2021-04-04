@@ -153,7 +153,7 @@ First, see the section on the *[Gentleman's Discard](https://hanabi.github.io/do
 
 #### Example
 
-<img src="https://github.com/piper0/Hanab-Conventions/blob/main/dumpster.png?raw=true" width="750">
+<img src="https://github.com/piper0/Hanab-Conventions/blob/main/dumpsterfire.png?raw=true" width="750">
 
 <br />
 
