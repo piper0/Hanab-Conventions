@@ -321,4 +321,4 @@ Massive shout-out to the many people who agreed to write new conventions or who 
 - timotree
 - Valetta6789
 
-Note that the above list of conventions is *not* complete. Several of the above contributors were in the process of drafting proposals when the gates were sealed. Feel free to send in your proposals if I missed yours, and I'll happily add it to the list.
+Note that the above list of conventions is *not* complete. Several of the above contributors were in the process of drafting proposals when the gates were sealed. Feel free to send in your proposals if we missed yours, and we'll happily add it to the list.
