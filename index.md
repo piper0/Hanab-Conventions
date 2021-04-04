@@ -287,8 +287,8 @@ It's called a Tinder Ejection, because it helps to 'light the fire' of Cathy's i
 
 ### The Priority Positional
 - The *Priority Finesse/Bluff* is one of the leading causes of mistakes and desync in H-Live Conventions. Therefore, we propose the following new priority system.
-- Players are *always* expected to play their playable cards from left to right, regardless of the identity of the card. This is an easy to remember rule, and deviations from this pattern will be easy to spot.
-- If Alice plays a card other than the leftmost playable card, this is to be interpreted as a positional clue, much like the *Positional Discard*.
+- Players are *always* expected to play their playable cards from right to left, regardless of the identity of the card. This is an easy to remember rule, and deviations from this pattern will be easy to spot.
+- If Alice plays a card other than the rightmost playable card, this is to be interpreted as a positional clue, much like the *Positional Discard*.
 - This positional clue can be on anyone – if Alice plays slot 3 out of priority and Bob can see a playable on Cathy's slot 3, Bob should NOT respond.
 
 
