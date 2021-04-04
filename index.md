@@ -230,6 +230,26 @@ In this case - players should trust that Alice knows what she is doing and not D
 
 <br />
 
+### Tinder Ejection
+- First, see the section on *[Ignitions](https://hanabi.github.io/docs/level-23/#unnecessary-moves-with-known-trash----ignition)*.
+- Currently, ignitions can be on anyone. This gives us the option for clues where an out of position ignition is declined without any good reason, calling Bob to blind play to tell the team that an extra ignition should have been given. 
+- Consider the following situation:
+  - All 2s are played.
+    - Bob:    x r3 x x
+    - Cathy:  b3 x x x
+    - Donald: x x g3 r1
+  - Alice clues green to Donald, as an ordinary play clue on g3. 
+  - Bob sees that ordinarily Alice would clue 1 to Donald instead, as an out of position unnecessary trash push that asks Cathy to play b3. 
+  - Therefore Alice means something extra, and Bob plays his second slot as a Tinder Ejection. 
+  - Now Cathy sees that if green was a normal play clue, it should not cause an extra blind play from slot 2, and if she doesn't respond it looks like a 5CE.
+  - Therefore she plays her finesse position as an ignition.
+
+(This proposal would also make sense with Bob playing slot 1 himself, but there's a conflict with double bluffs then - the ejection slot is less overloaded. There is a very clean and simple extension to odd/even unnecessary trash pushes in case slot 1 is called for though, so you could have a declined declined unnessary trash push then.)
+
+It's called a Tinder Ejection, because it helps to 'light the fire' of Cathy's ignition. An alternative name could be the Spark Ejection.
+
+<br />
+
 ### The Squeeze Finesse
 - When a rank clue touches a 2+ away card, this typically promises either a true finesse or a double bluff.
 - However, what if the clue touches two 2+ away cards with exactly one untouched card between them. In this case, the clue-giver must be trying to communicate something extra.
